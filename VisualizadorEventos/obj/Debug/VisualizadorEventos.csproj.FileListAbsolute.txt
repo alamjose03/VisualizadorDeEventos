@@ -1,0 +1,8 @@
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\obj\Debug\VisualizadorEventos.csproj.AssemblyReference.cache
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\obj\Debug\VisualizadorEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\obj\Debug\VisualizadorEventos.csproj.CoreCompileInputs.cache
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\bin\Debug\VisualizadorEventos.exe.config
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\bin\Debug\VisualizadorEventos.exe
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\bin\Debug\VisualizadorEventos.pdb
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\obj\Debug\VisualizadorEventos.exe
+C:\Users\alamg\Source\Repos\CURSO C#\VisualizadorEventos\VisualizadorEventos\obj\Debug\VisualizadorEventos.pdb

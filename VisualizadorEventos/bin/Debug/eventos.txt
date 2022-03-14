@@ -1,0 +1,4 @@
+Sesión de Couch Buenas prácticas, 03/03/2022
+Sesión de SOLID, 07/03/2022 09:00
+Año Nuevo, 01/01/2022 00:01
+Sesion de Patrones de diseño, 09/03/2022

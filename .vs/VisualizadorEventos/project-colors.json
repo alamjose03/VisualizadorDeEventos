@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28aa6e96-d972-4995-a910-9c8c2b61d7e9": {
+      "ProjectGuid": "28aa6e96-d972-4995-a910-9c8c2b61d7e9",
+      "DisplayName": "VisualizadorEventos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
